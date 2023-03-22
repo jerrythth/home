@@ -36,7 +36,7 @@ ul, ol {
     max-width: 1200px;
     margin: 0 auto;
     padding: 2rem;
-    background-color: #fff;
+    background-color: rgba(230, 230, 250, 0.5);
 }
 
 /* 导航栏 */
